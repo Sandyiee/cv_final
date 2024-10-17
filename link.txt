@@ -1,0 +1,3 @@
+11-lstm image segment-https://www.kaggle.com/datasets/alexisbcook/oxford-pets
+4-binary class-https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification
+5-multi-https://www.kaggle.com/datasets/mohamedchahed/dog-breeds
